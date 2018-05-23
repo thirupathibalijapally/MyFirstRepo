@@ -6,7 +6,7 @@ public class CalanderDay {
 	    String[] pollTime = strMain.split(":");
 	    for (int i=0; i < pollTime.length; i++)
 	    {
-	      
+	      System.out.println("Hellooo master this a car");
 	    }
 		
 		
